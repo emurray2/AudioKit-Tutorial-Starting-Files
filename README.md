@@ -16,13 +16,13 @@ Welcome! If you are watching my AudioKit tutorial on my YouTube channel and are 
 10. Open the folder called "Piano"
 11. Paste the files "AudioKit.framework" and "AudioKitUI.framework"
 12. Double check what files and folders you see:
-You should see:
-AudioKit.framework
-AudioKitUI.framework
-Piano (folder)
-Piano.xcodeproj
-PianoTests (folder)
-PianoUITests (folder)
++ You should see:
+  + AudioKit.framework
+  + AudioKitUI.framework
+  + Piano (folder)
+  + Piano.xcodeproj
+  + PianoTests (folder)
+  + PianoUITests (folder)
 13. Open the file "Piano.xcodeproj"
 14. Xcode will warn you that this project was downloaded from the internet. If you're sure the project is safe, click the Open button to open the project.
 15. Build the project to check for errors
