@@ -2,9 +2,7 @@
 
 Welcome! If you are watching my AudioKit tutorial on my YouTube channel and are trying to download the necessary starting files to build your project, you have come to the right place! These are the files from the app we built in the first tutorial. In the first tutorial, we learned how to place a piano keyboard on the iPhone screen. In tutorial #3, we will learn how to actually create sound out of this piano keyboard. Enjoy!
 
-# Please follow the following steps for your project to function:
-
-#### Ordered list
+## Please follow the following steps for your project to function:
 
 1. Download the latest version of Xcode from the Mac App Store
 2. Download the project by clicking the green "Clone or download" button and select "Download ZIP"
