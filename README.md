@@ -7,7 +7,7 @@ Welcome! If you are watching my AudioKit tutorial on my YouTube channel and are 
 1. Download the latest version of Xcode from the Mac App Store
 2. Download the project by clicking the green "Clone or download" button and select "Download ZIP"
 3. Go to the official Audio Kit Website - [audiokit.io/downloads](https://audiokit.io/downloads)
-4. Click on the AudioKit-iOS-latestversion.zip link to download the latest version of AudioKit frameworks
+4. Click on the AudioKit-iOS-{VERSION}.zip link to download the latest version of AudioKit frameworks
 5. Go to your downloads folder and unzip the file "AudioKit-iOS-{VERSION}.zip"
 6. Click on the new folder called "AudioKit-iOS"
 7. Once the folder is open, copy the files "AudioKit.framework" and "AudioKitUI.framework"
