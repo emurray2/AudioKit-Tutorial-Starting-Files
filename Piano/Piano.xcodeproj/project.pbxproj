@@ -10,9 +10,9 @@
 		071E19C722A5C61D006989FB /* SoundError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071E19C622A5C61D006989FB /* SoundError.swift */; };
 		071E19C822A5C61D006989FB /* SoundError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071E19C622A5C61D006989FB /* SoundError.swift */; };
 		071E19C922A5C61D006989FB /* SoundError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071E19C622A5C61D006989FB /* SoundError.swift */; };
-		071E19CB22A5C6A0006989FB /* FluidR3_GM.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 071E19CA22A5C6A0006989FB /* FluidR3_GM.sf2 */; };
-		071E19CC22A5C6A0006989FB /* FluidR3_GM.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 071E19CA22A5C6A0006989FB /* FluidR3_GM.sf2 */; };
-		071E19CD22A5C6A0006989FB /* FluidR3_GM.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 071E19CA22A5C6A0006989FB /* FluidR3_GM.sf2 */; };
+		071E19CB22A5C6A0006989FB /* FluidR3 GM.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 071E19CA22A5C6A0006989FB /* FluidR3 GM.sf2 */; };
+		071E19CC22A5C6A0006989FB /* FluidR3 GM.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 071E19CA22A5C6A0006989FB /* FluidR3 GM.sf2 */; };
+		071E19CD22A5C6A0006989FB /* FluidR3 GM.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 071E19CA22A5C6A0006989FB /* FluidR3 GM.sf2 */; };
 		071E19CF22A5C6E7006989FB /* 4573174876.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 071E19CE22A5C6E7006989FB /* 4573174876.jpg */; };
 		071E19D022A5C6E7006989FB /* 4573174876.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 071E19CE22A5C6E7006989FB /* 4573174876.jpg */; };
 		071E19D122A5C6E7006989FB /* 4573174876.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 071E19CE22A5C6E7006989FB /* 4573174876.jpg */; };
@@ -62,7 +62,7 @@
 
 /* Begin PBXFileReference section */
 		071E19C622A5C61D006989FB /* SoundError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundError.swift; sourceTree = "<group>"; };
-		071E19CA22A5C6A0006989FB /* FluidR3_GM.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = FluidR3_GM.sf2; sourceTree = SOURCE_ROOT; };
+		071E19CA22A5C6A0006989FB /* FluidR3 GM.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FluidR3 GM.sf2"; sourceTree = SOURCE_ROOT; };
 		071E19CE22A5C6E7006989FB /* 4573174876.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4573174876.jpg; sourceTree = "<group>"; };
 		0784E43A21FEC8F300A96867 /* ScreenControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScreenControl.swift; sourceTree = "<group>"; };
 		0787CA0122921EAE00E9E55B /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
@@ -125,7 +125,7 @@
 		0798E45321FE4F670010361B = {
 			isa = PBXGroup;
 			children = (
-				071E19CA22A5C6A0006989FB /* FluidR3_GM.sf2 */,
+				071E19CA22A5C6A0006989FB /* FluidR3 GM.sf2 */,
 				071E19CE22A5C6E7006989FB /* 4573174876.jpg */,
 				0798E45E21FE4F670010361B /* Piano */,
 				0798E47621FE4F690010361B /* PianoTests */,
@@ -288,7 +288,7 @@
 				0798E46D21FE4F680010361B /* LaunchScreen.storyboard in Resources */,
 				0798E46A21FE4F680010361B /* Assets.xcassets in Resources */,
 				0798E46521FE4F670010361B /* Main.storyboard in Resources */,
-				071E19CB22A5C6A0006989FB /* FluidR3_GM.sf2 in Resources */,
+				071E19CB22A5C6A0006989FB /* FluidR3 GM.sf2 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,7 +296,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				071E19CC22A5C6A0006989FB /* FluidR3_GM.sf2 in Resources */,
+				071E19CC22A5C6A0006989FB /* FluidR3 GM.sf2 in Resources */,
 				071E19D022A5C6E7006989FB /* 4573174876.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -305,7 +305,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				071E19CD22A5C6A0006989FB /* FluidR3_GM.sf2 in Resources */,
+				071E19CD22A5C6A0006989FB /* FluidR3 GM.sf2 in Resources */,
 				071E19D122A5C6E7006989FB /* 4573174876.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
