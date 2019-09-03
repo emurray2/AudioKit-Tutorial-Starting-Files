@@ -2,6 +2,9 @@
 
 Welcome! If you are watching my AudioKit tutorial on my YouTube channel and are trying to download the necessary starting files to build your project, you have come to the right place! These are the files from the app we built in the first tutorial. In the first tutorial, we learned how to place a piano keyboard on the iPhone screen. In tutorial #3, we will learn how to actually create sound out of this piano keyboard. Enjoy!
 
+## Original Article Where Project Came From:
+[Eric Ford: Building a MIDI Music App for iOS in Swift](https://blog.codeship.com/building-a-midi-music-app-for-ios-in-swift/)
+
 ## Please follow the following steps for your project to function:
 
 1. Download the latest version of Xcode from the Mac App Store
